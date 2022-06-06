@@ -15,7 +15,8 @@
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "bin": {
-    "50day": "bin/50day.mjs"
+    "50day": "bin/50day.mjs",
+    "tschan": "bin/tschan.mjs"
   },
   "scripts": {
     "build": "unbuild",
